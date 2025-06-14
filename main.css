@@ -701,10 +701,4 @@
   .alert-secondary {
     @apply  text-secondary-600 bg-secondary-50;
   }
-  .backstage-icon {
-    mask: url('/static/icons/backstage.svg') no-repeat center;
-    mask-size: contain;
-    -webkit-mask: url('/static/icons/backstage.svg') no-repeat center;
-    -webkit-mask-size: contain;
-  }
 }
